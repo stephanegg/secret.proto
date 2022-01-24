@@ -1,0 +1,3 @@
+[submodule "secretd"]
+	path = secretd
+	url = https://github.com/scrtlabs/SecretNetwork
